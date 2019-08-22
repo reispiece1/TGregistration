@@ -1,0 +1,3 @@
+firstname,lastname,shopName,position,phonenumber,shopcode,email,Business Partner & Summit Managment, barbers edge, NEP 
+colin,Reis,OP,IT,2508010266,colinr@gmail.com,abtg11,null,null,null,
+jaime,rump,abtg1,it,2508010266,colinr@tommyguns.com,case22,null,null,null,
